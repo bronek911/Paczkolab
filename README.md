@@ -1,4 +1,4 @@
 ## Warsztaty TDD ##
 ## Autorzy
-* Jerzy Skuciński
+* Jerzy Skuciński ???
 
